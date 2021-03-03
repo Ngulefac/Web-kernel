@@ -14,4 +14,8 @@
                 font-size: 1.3em;
                 overflow-y: scroll;
                 padding-right: 1em;
+                animation-duration: 0.5s;
+                animation-name: colorthing;
+                animation-iteration-count: infinite;
+                animation-direction: alternate;
             }
