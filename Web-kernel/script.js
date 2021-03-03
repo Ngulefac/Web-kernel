@@ -3,8 +3,7 @@ var code = `
 Brought to you by SWIFTechnologies
   Author : Ngulefac Theophilus
   https://github.com/Ngulefac
-            
-            ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 #include <linux/delay.h>
