@@ -1,5 +1,13 @@
 //this variable called code is the variable where the js file will read characters from to the web browser
-var code = `#include <linux/delay.h>
+var code = `
+Brought to you by SWIFTechnologies
+  Author : Ngulefac Theophilus
+  https://github.com/Ngulefac
+            
+            ^
+
+
+#include <linux/delay.h>
 #include <linux/init.h>
 #include <linux/irqdomain.h>
 #include <linux/pci.h>
