@@ -7,6 +7,4 @@ Imagine if you forgot your computer at home and you're about to
 ```
 ### Demo
 
-<img src="https://i.imgur.com/7Kx7cWt.png" title="Web kernel Demo" />
-![Web Kernel Demo](https://i.imgur.com/7Kx7cWt.png)
-
+<img src="https://i.imgur.com/7Kx7cWt.png" title="Web kernel Demo" /> 
